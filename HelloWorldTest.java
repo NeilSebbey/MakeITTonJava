@@ -1,5 +1,6 @@
 //HelloWorldTest.java
-/*This program displays a simple "Hello World" message to the screen. Welcome*/
+/*This program displays a simple "Hello World" message to the screen.*/
+/*Welcome to GitHub*/
 
 public class HelloWorldTest{
 	public static void main (String args[])
